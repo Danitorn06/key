@@ -1,0 +1,3 @@
+p, admin, /api/data, GET
+p, affiliator, /api/data, GET
+p, user, /api/data, GET
